@@ -1,0 +1,177 @@
+---
+title: "Participación Reflexiva"
+author: "Nicolas Bennett"
+date: "11/21: `r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semana 4
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "producción, costos y Oferta", esta clase se relaciona con los objetivos de aprendizaje RA3 el cual consiste en describir y simular modelos económicos para establecer la dinámica de relaciones entre variables, ya que en esta semana se enseñó respecto a los diferentes costos de producción de objetos y como este afecta el precio al consumidor de este producto, también se relacionó con precios de productos suplementarios y complementarios.
+
+2)Describa conocimientos previos en relación con el tema
+
+-Yo conocía respecto a los efectos directos que tenía el costo de producción al costo del consumidor.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-En esta clase aprendí que la competitividad de los productos afecta mucho en su precio y en su consumo, y de ahí puedo sacar mejores conclusiones respecto a precios futuros de algunos productos y por ende me ayuda a saber cómo cuando y donde ahorrar para compras mayores.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Me permite conocer mejor el funcionamiento de producción y relación de costos a cosas externas que puedan afectar los costos, lo que como ingeniero me permite hacer mejores proyecciones a diferentes tipos de proyectos en relación tanto a su costo como a su venta.
+
+5)Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-El trabajo grupal fue un análisis de inflación respecto a un producto, este fue un análisis a la variación de precios de un producto lo que nos permitió analizar la información aprendida en clases en un caso real, lo que me permitió entender e integrar la materia aprendida en clases.
+
+6)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-Para poder demostrar que domino los conceptos debo ser capaz de calcular la maximización de beneficio del productor y entender cómo manejar la relación costo precio de un producto.
+
+## Semana 5
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Equilibrio de Mercado, Estática Comparativa", esta clase se relaciona con los objetivos de aprendizaje RA3 el cual consiste en describir y simular modelos económicos para establecer la dinámica de relaciones  entre variables, ya que en esta semana aprendimos del modelo de oferta y demanda y como calcular el equilibrio de mercado y sobre cómo se calculan los cambios de este.
+
+2)Describa conocimientos previos en relación con el tema
+
+-Conocía el equilibrio de mercado, y que este es como un punto medio entre cuanto se está dispuesto a producir por el mismo precio por el cual se está dispuesto a consumir.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-La escases y el exceso, ya que este me permite analizar y entender por qué y cuando debo preocuparme de ciertas compras y cuando debo dejar de comprar otras.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-El saber sobre el equilibrio de mercado me permite analizar y entender más o menos como debiera manejar la producción de un bien, en caso de que sea yo el oferente.
+
+5)Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-El trabajo grupal fue respecto a frontera de posibilidades, lo que permite ver que tanto se podría llegar a producir, este me sirvió para analizar el por qué existe la curva de oferta y cómo funciona.
+
+6)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-Debo ser capaz de poder analizar los cambios de equilibrio de mercado, y como calcularlos.
+
+## Semana 6
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Elasticidades, Excedentes", esta clase se relaciona con los objetivos de aprendizaje RA4 el cual consiste en identificar problemáticas económicas para establecer planes contingentes a todo sector productivo, ya que aprendimos respecto a la elasticidad de los bienes y como se maneja la relación del equilibrio de mercado con la realidad, y esto nos permite manejar en todo sector como se debiera manejar la producción en caso de excedente tanto de oferta como de demanda.
+
+2)Describa conocimientos previos en relación con el tema
+
+-Conocía el termino de elasticidad y cómo funcionaba tanto para oferta como para demanda.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-Saber respecto a la elasticidad me permite saber que productos podrían tener mucha variación explosiva en sus precios por ende saber que productos podría pensar en que pueden bajar una buena cantidad y cuales su precio se mantendrá medianamente constante, por ende, cuando comprar ciertos productos y cuando no.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-El saber de elasticidad me permite manejar bien los proyectos futuros ya que permite ver una proyección mediana dependiendo el tipo de proyecto que sea, que tanto podría variar el precio de mi producto final.
+
+5)Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-El trabajo grupal me ayudo a integrar bien la materia respecto a los distintos tipos de elasticidad y cómo funcionan y afectan en el mercado.
+
+6)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? 
+
+-Debo ser capaz de poder apreciar un gráfico de demanda y oferta y entender que elasticidad tiene, y saber que productos solo por saber que tipos de productos son, que elasticidad tienen.
+
+## Semana 7
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Intervención del gobierno: eficiencia, control precios, impuestos", esta clase se relaciona con los objetivos de aprendizaje RA3 el cual consiste en Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables, ya que en esta clase al aprender respecto a la intervención del gobierno, me permite analizar y entender la dinámica de fallas en el mercado y como se generan estas intervenciones y como afectan al mercado.
+
+2)Describa conocimientos previos en relación con el tema
+
+- Tenía conocimiento de los impuestos y como funcionaban y se manejaban por el gobierno para manejar algunos precios tanto para el consumidor como para el productor.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-Al conocer la intervención del estado a detalle puedo saber cuándo ciertos productos están protegidos ante errores del mercado y cuales otros están modificados para poder generar desincentivo o incentivo en su venta y compra.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Me da conocimiento de que incluso cuando algo se ve perfecto en papel no siempre funciona perfecto y se necesita la intervención de un tercero para poder regular los errores.
+
+5)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? -Debo ser capaz de analizar y entender cuando un producto es intervenido y con que intención, aparte de como poder hacer una intervención para arreglar la
+falla en el mercado.
+
+## Semana 8
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Comercio Internacional", esta clase se relaciona con los objetivos de aprendizaje RA3 el cual consiste en Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables, ya que nos permite entender la competencia internacional y nos informa respecto a lo que son las exportaciones.
+
+2)Describa conocimientos previos en relación con el tema
+
+- Conocía el comercio internacional y estoy al tanto de los acuerdos internacionales en los que participa Chile.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-Afecta el saber que productos son de donde, y me da a conocer cómo puedo buscar cosas de menor precio y de mejoro igual calidad.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Saber sobre el comercio internacional me permite pronosticar proyectos a otras naciones tanto de completarlo ahí como generar beneficios internacionales, aparte me permite manejarme mejor con costos respecto a proyectos ingenieriles.
+
+5)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-Debo ser capaz de saber cuáles son los excedentes generados por importaciones y exportaciones, y poder calcular los nuevos equilibrios de mercado una vez analizado el tema de importación y exportación.
+
+## Semana 9
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Fallas de Mercado, Papel Gobierno, diseño impositivo", esta clase se relaciona con los objetivos de aprendizaje RA3 el cual consiste en describir y simular modelos económicos para establecer la dinámica de relaciones
+entre variables, ya que nos muestra cómo funcionan las fallas de mercado y como se generan, lo que permite generar modelos económicos al rededor del problema
+
+2)Describa conocimientos previos en relación con el tema
+
+-Conocía que los distintos tipos de falla de mercado.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-Saber que hay diferentes tipos de falla de mercado me permite reasegurarme y protegerme de diferentes tipos de colusiones y abusos que podrían generarse a partir del mercado y sabiendo de donde pueden provenir estos problemas
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Saber que las fallas de mercado son trabajadas por el estado como los privados genera nivel de confort al saber que incluso si es q un proyecto mío tiene un error va a haber un alguien que genere que se estabilice y se arregle la falla.
+
+5)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos? 
+
+-Debo ser capaz de analizar y entender lasfallas de mercado por externalidades y además de entender y poder analizar los bienes públicos y los gráficos de derechos e impuestos.
+
+## Semana 10
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Sistema Impositivo", esta clase se relaciona con los objetivos de aprendizaje RA4 el cual consiste en identificar problemáticas económicas para establecer planes contingentes a todo sector productivo, ya que
+nos enseña respecto a la forma que tiene el estado para ejercer su poder tributario, y por ende manejarse dentro de la economía y manejar las fallas del mercado.
+
+2)Describa conocimientos previos en relación con el tema
+
+-Conocía respecto as sistema impositivo y como este se adjudica a la sociedad
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-Saber respecto al sistema impositivo me permite conocer mejor la forma en que los impuestos son tanto recaudados como utilizados, lo que como un consumidor y civil me da tranquilidad en el efecto de saber dónde queda mi esfuerzo. Lo puedo utilizar para tener un apoyo en lo que es la equidad de posibilidades en mi vida.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Tener esta información me da mayor conocimiento y herramientas para poder manejarme con proyectos e ideas a lo largo de mi carrera en el momento donde se aplica la intervención del estado y me permite proyectarme con subsidios o impuestos dependiendo de que es lo que vaya a producir, y de ahí estar mejor preparado.
+
+5)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-Debo ser capaz de entender en qué momento el estado aplica su poder tributario y como, y de cómo sus herramientas son mejores aprovechadas en cada circunstancia.
